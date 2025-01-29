@@ -4,7 +4,7 @@
 **E-Commerce Analysis for Munch’s**
 *Strategies to Increase Sales and Optimize Costs*
 
-**Prepared by:** Your Name  
+**Prepared by:** Zain Siddiqui  
 **Date:** January 2025
 
 ---
