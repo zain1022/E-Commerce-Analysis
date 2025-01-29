@@ -1,0 +1,5 @@
+OrderID,CustomerID,ProductName,Category,Price,Quantity,OrderDate,Region
+1001,C001,Dog Food,Pet Supplies,25.00,2,2023-01-15,East
+1002,C002,Cat Litter,Pet Supplies,15.00,1,2023-01-16,West
+1003,C001,Dog Toys,Toys,10.00,5,2023-01-17,East
+1004,C003,Dog Collar,Accessories,20.00,1,2023-01-18,South
